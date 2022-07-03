@@ -42,8 +42,13 @@
     </div>
 
     <!-- Side bar for switching main content (deposits, craft/refine, research, scientists, boosts) -->
-    <v-navigation-drawer id="sidebar" absolute permanent right width="30%">
-    </v-navigation-drawer>
+    <v-navigation-drawer
+      id="sidebar"
+      absolute
+      permanent
+      right
+      width="30%"
+    ></v-navigation-drawer>
   </v-app>
 </template>
 
